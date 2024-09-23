@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Sun",
+    "description": "The sun is by far the largest object in our solar system, containing 99.8% of the solar system's mass.",
+    "image": "assets/images/mercury.png"
+  },
+  {
+    "name": "Mercury",
+    "description": "Mercury is the closest planet to the sun and the smallest planet in the solar system — it is only a little larger than Earth's moon.",
+    "image": "assets/images/mercury.png"
+  },
+  {
+    "name": "Venus",
+    "description": "Venus is the second planet from the sun and is the hottest planet in the solar system.",
+    "image": "assets/images/venus.png"
+  },
+  {
+    "name": "Earth",
+    "description": "Earth, our home planet, is the third planet from the sun. It is a water world with two-thirds of the planet covered by water. Earth's atmosphere is rich in nitrogen and oxygen and it is the only world known to harbor life. ",
+    "image": "assets/images/earth.png"
+  },
+  {
+    "name": "Jupiter",
+    "description": "  Jupiter is the fifth planet from the sun and the largest planet in the solar system.",
+    "image": "assets/images/earth.png"
+  }
+]
