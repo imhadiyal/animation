@@ -46,7 +46,9 @@ class _PlanetDetailScreenState extends State<PlanetDetailScreen>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text(widget.planet.name)),
+      appBar: AppBar(
+        title: Text(widget.planet.name),
+      ),
       body: Column(
         children: [
           const SizedBox(height: 20),

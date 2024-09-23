@@ -2,7 +2,7 @@
   {
     "name": "Sun",
     "description": "The sun is by far the largest object in our solar system, containing 99.8% of the solar system's mass.",
-    "image": "assets/images/mercury.png"
+    "image": "assets/images/sun.png"
   },
   {
     "name": "Mercury",
@@ -22,6 +22,6 @@
   {
     "name": "Jupiter",
     "description": "  Jupiter is the fifth planet from the sun and the largest planet in the solar system.",
-    "image": "assets/images/earth.png"
+    "image": "assets/images/jupiter.png"
   }
 ]
