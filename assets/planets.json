@@ -23,5 +23,20 @@
     "name": "Jupiter",
     "description": "  Jupiter is the fifth planet from the sun and the largest planet in the solar system.",
     "image": "assets/images/jupiter.png"
+  },
+  {
+    "name": "Saturn",
+    "description": "Saturn is the sixth planet in our solar system. It is also known as ringed planet. Saturn is the second largest planet in our solar system in terms of size. it has a diameter of 1,20,536 kilometres. Saturn is nine times wider than the Earth.",
+    "image": "assets/images/Saturn.jpg"
+  },
+  {
+    "name": "Uranus",
+    "description": "Uranus is the third largest planet in our solar system with a diameter of 51,118 kilometers. It has a dramatic tilt of nearly 90 degrees. Uranus is the third largest planet in our solar system with a diameter of 51,118 kilometers.",
+    "image": "assets/images/uranus.jpg"
+  },
+  {
+    "name": "Neptune",
+    "description": "Neptune is the farthest planet from the Sun. It has a average temperature around (-214 degree Celsius and -353 degrees F) that makes it one of the coldest planets of our solar system. It is the third largest planet in our solar system.",
+    "image": "assets/images/jupiter.png"
   }
 ]

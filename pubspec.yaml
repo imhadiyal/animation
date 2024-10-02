@@ -69,8 +69,8 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - assets/planets.json
-    - assets/images/mercury.png
-    - assets/images/venus.png
+    - assets/images/
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
